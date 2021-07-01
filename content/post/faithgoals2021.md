@@ -7,7 +7,7 @@ draft: false
 
 # Mid Year Prayer and Fasting 2021
 
-![Awesome God](/static/MidyearPF2021.jpg "Awesome God")
+![Awesome God](/images/MidyearPF2021.jpg "Awesome God")
 
 
 ## For the Rest of 2021, We are Seeking God and Trusting him in these areas...
