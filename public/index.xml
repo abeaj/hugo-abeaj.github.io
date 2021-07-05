@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abe and AJ</title>
     <link>https://abeaj.github.io/</link>
@@ -13,7 +13,11 @@
       <pubDate>Wed, 30 Jun 2021 21:52:25 +0800</pubDate>
       
       <guid>https://abeaj.github.io/post/faithgoals2021/</guid>
-      <description>Mid Year Prayer and Fasting 2021 For the Rest of 2021, We are Seeking God and Trusting him in these areas&amp;hellip; Personal Faith Goals    Abe AJ          My Family    Abe AJ          Career    Abe AJ          Ministry    Abe AJ          </description>
+<<<<<<< HEAD
+      <description>Mid Year Prayer and Fasting 2021 For the Rest of 2021, We are Seeking God and Trusting him in these areas&amp;hellip; Personal Faith Goals    Abe AJ      Reignited Fire to reach the lost    Healing for my heart problem    Slim body by December    Lead Abe to the Lord always    New Investment (House,New Policy)    My Family    Abe AJ      Reignited Fire for my brother    Healing for Moms skin problem    New Job or business for Mom and Dad    For my brother to get out of debt.</description>
+=======
+      <description>Mid Year Prayer and Fasting 2021 For the Rest of 2021, We are Seeking God and Trusting him in these areas&amp;hellip; Personal Faith Goals    Abe AJ      Reignited Fire to reach the lost    Healing my heart problem    Slim body / Healthy Living    Lead Abe to the Lord always    New Investment (House,New Policy)    My Family    Abe AJ      Reignited Fire for my brother    Healing for Moms skin problem    New Job or business for Mom and Dad    For my brother to get out of debt    More stable job for my brother    Career    Abe AJ      Increase in salary or promotion in MDI    To finish top line and GP targets for year 2021    No attrition in Cloud COE Team    Healthy enrollees and Load in SY 2021-2022 in TIP    Continue Masters again    Ministry    Abe AJ      Reachout more students through teaching    Reachout coworkers in the office    Start a new Digital Ministry project    Start to lead a VG again    </description>
+>>>>>>> 6f67148... Added AJ Faith Goals
     </item>
     
   </channel>
